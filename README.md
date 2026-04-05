@@ -71,15 +71,7 @@ JWT_EXPIRES_IN=7d
 ```
 
 
-This creates three test accounts:
-
-| Role     | Email                | Password    |
-|----------|----------------------|-------------|
-| Admin    | admin@example.com    | Admin@123   |
-| Analyst  | analyst@example.com  | Analyst@123 |
-| Viewer   | viewer@example.com   | Viewer@123  |
-
-### 4. Start the server
+### 3. Start the server
 
 ```bash
 # Development (with auto-reload)
